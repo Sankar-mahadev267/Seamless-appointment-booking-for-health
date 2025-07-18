@@ -74,15 +74,6 @@ npm test
 .  🗣️ Multi-Language Support
 
 
-## 🐞 Known Issues
-
-.  No calendar sync yet.
-
-.  No push notification support (mobile).
-
-.  UI glitches on very small screen sizes.
-
-
 ## 🤝 Contributing
 
 .  Contributions are welcome!

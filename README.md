@@ -30,6 +30,8 @@ A simple and efficient doctor appointment booking system that allows users to bo
 
 .  Authentication: JWT 
 
+.  Images: Multer
+
 
 ## ⚙️ Installation & Setup
 
